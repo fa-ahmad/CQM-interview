@@ -9,7 +9,7 @@
 
 
 ## TODO
-In your role as a content quality manager, you have been tasked to fix this README file. Fix item #4 in the instructions below so that the text **line 18** becomes a hyperlink that takes a user to the `fetchRestaurants(callback)` in the file given in the instructions below. 
+In your role as a content quality manager, you have been tasked to fix this README file. Fix item #4 in the instructions below so that the text **line 18** becomes a hyperlink that takes a user to line number in the linked file where `fetchRestaurants(callback)` is defined. 
 
 
 
